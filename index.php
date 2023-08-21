@@ -86,7 +86,7 @@
           <div class="col-lg-7 order-1 order-lg-2 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
             <div class="image-stack">
               <img src="assets/img/training.jpg" alt="" class="stack-front">
-              <img src="assets/img/slide/slide-2.jpg" alt="" class="stack-back">
+              <img src="assets/img/nova-1.jpg" alt="" class="stack-back">
             </div>
           </div>
         </div><!-- Features Item -->
@@ -171,8 +171,8 @@
 
       <!--  Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Our Services</h2>
+       
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -244,9 +244,8 @@
 
       <div class="container">
 
-        <div class="section-header">
-          <h2>Portfolio</h2>
-          <p>Non hic nulla eum consequatur maxime ut vero memo vero totam officiis pariatur eos dolorum sed fug dolorem est possimus esse quae repudiandae. Dolorem id enim officiis sunt deserunt esse soluta consequatur quaerat</p>
+        <div class="section-title" data-aos="fade-up">
+          <h2>Important Events</h2>
         </div>
 
       </div>
