@@ -16,7 +16,8 @@
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Welcome to <span>Nova Computer & Language Institute</span></h2>
-              <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+              <p> Nova is a highly professional and experienced computer education centre based in mountainnestled Pokhara. Comprising of faculty
+              considered the best in the industry.</p>
               <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
             </div>
           </div>
@@ -27,7 +28,9 @@
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Study in Japan</h2>
-              <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+              <p>New Basic N5 level and N4 classes are available, with the skill classes available for all sector, Test preparation classes area also available <br> 
+                  Hurry Up !!
+              </p>
               <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
             </div>
           </div>
@@ -38,7 +41,9 @@
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Study in Korea</h2>
-              <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+              <p>We have basic classes going on with affordable fees and well-experienced Teachers. Advanced classes are also available for the interestd ones   <br/>
+                Hurry Up !!
+              </p>
               <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
             </div>
           </div>
@@ -103,10 +108,11 @@
               Nova properly guides for your education because of the long experience and expertise of its 
               founder in study and migration solution. Nova has proven itself as one of the best institutes in the town. 
             </p>
+            <h4>Why choose us?</h4>
             <ul>
-              <li><i class="ri-check-double-line"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-              <li><i class="ri-check-double-line"></i><span> Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-              <li><i class="ri-check-double-line"></i> <span>Facilis ut et voluptatem aperiam. Autem soluta ad fugiat</span>.</li>
+              <li><i class="ri-check-double-line"></i> <span>Renowned to  produce excellent students</span></li>
+              <li><i class="ri-check-double-line"></i><span> Flexible classes for students</span></li>
+              <li><i class="ri-check-double-line"></i> <span>well-experienced teachers</span>.</li>
             </ul>
             <a href="#" class="btn btn-get-started align-self-start">Get Started</a>
           </div>
