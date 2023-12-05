@@ -47,14 +47,14 @@
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-envelope"></i>
                   <h4>Email:</h4>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <p>novainstitute.lp@gmail.com</p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-phone"></i>
                   <h4>Call:</h4>
                   <p> 061-544199
-                    <br>061-550741
+                    <br>061-552741
                   </p>
                 </div>
               </div>
