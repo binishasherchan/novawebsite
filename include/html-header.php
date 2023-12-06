@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Nova Computer & Language Institute - Home</title>
-  <meta content="" name="description">
+  <meta content="Nova Computer & Language Institute" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -26,7 +26,7 @@
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-  <!-- Template Main CSS File -->
+  <!--  Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
 
