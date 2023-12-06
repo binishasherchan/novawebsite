@@ -448,6 +448,7 @@ h6 {
 
 #hero .carousel-content {
   background: rgba(4, 4, 4, 0.7);
+  text-align: center;
   padding: 20px;
   color: #fff;
   border-top: 5px solid var(--color-primary);
