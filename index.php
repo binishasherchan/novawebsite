@@ -18,7 +18,7 @@
               <h2>Welcome to <span>Nova Computer & Language Institute</span></h2>
               <p> Nova is a highly professional and experienced computer education centre based in mountainnestled Pokhara. Comprising of faculty
               considered the best in the industry.</p>
-              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+              <div class="text-center"><a href="about.php" class="btn-get-started">Read More</a></div>
             </div>
           </div>
         </div>
@@ -31,7 +31,7 @@
               <p>New Basic N5 level and N4 classes are available, with the skill classes available for all sector, Test preparation classes area also available <br> 
                   Hurry Up !!
               </p>
-              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+              <div class="text-center"><a href="about.php" class="btn-get-started">Read More</a></div>
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@
               <p>We have basic classes going on with affordable fees and well-experienced Teachers. Advanced classes are also available for the interestd ones   <br/>
                 Hurry Up !!
               </p>
-              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+              <div class="text-center"><a href="about.php" class="btn-get-started">Read More</a></div>
             </div>
           </div>
         </div>
