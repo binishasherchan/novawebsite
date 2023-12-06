@@ -11,9 +11,9 @@
               Mahendrapul, <br>
              Pokhara Kaski<br>
               United States <br><br>
-              <strong>Phone:</strong>061-544199
+              <strong>Phone :</strong>061-544199
               <br>
-              <strong>Email:</strong> novainstitute.lp@gmail.com<br>
+              <strong>Email :</strong> novainstitute.lp@gmail.com<br>
             </p>
           </div>
 
@@ -30,11 +30,11 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Computer Courses</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Study in Japan</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Study in Japan</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">English Language</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i>Computer Courses</li>
+              <li><i class="bx bx-chevron-right"></i> Study in Japan</li>
+              <li><i class="bx bx-chevron-right"></i> Study in Korea</li>
+              <li><i class="bx bx-chevron-right"></i> English Language</li>
+              <li><i class="bx bx-chevron-right"></i> Graphic Design</li>
             </ul>
           </div>
 

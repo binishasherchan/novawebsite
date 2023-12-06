@@ -48,7 +48,7 @@
 
 
             </ul>
-            <a href="#" class="btn btn-get-started align-self-start">Get Started</a>
+            <a href="contact.php" class="btn btn-get-started align-self-start">Get Started</a>
           </div>
         </div><!-- Features Item -->
 
@@ -63,7 +63,7 @@
               <li><i class="bi bi-check"></i> <span>Other Utilities</span></li>
               <li><i class="bi bi-check"></i> <span>Project Work / Exam</span></li>
             </ul>
-            <a href="#" class="btn btn-get-started align-self-start">Get Started</a>
+            <a href="contact.php" class="btn btn-get-started align-self-start">Get Started</a>
           </div>
           <div class="col-lg-6 d-flex align-items-center features-img-bg" data-aos="zoom-out">
             <img src="assets/img/course/comp1.jpg" class="img-fluid rounded" alt="">
@@ -83,7 +83,7 @@
                 <li><i class="bi bi-check"></i> <span>CoralDraw / In Design / Free Hand</span></li>
                 <li><i class="bi bi-check"></i> <span>Project Work / Exam</span></li>
               </ul>
-              <a href="#" class="btn btn-get-started align-self-start">Get Started</a>
+              <a href="contact.php" class="btn btn-get-started align-self-start">Get Started</a>
             </div>
            
            
@@ -124,7 +124,7 @@
                 <li><i class="bi bi-check"></i> <span>MS Excel</span></li>
                 <li><i class="bi bi-check"></i> <span>Project Work / Exam</span></li>
               </ul>
-              <a href="#" class="btn btn-get-started align-self-start">Get Started</a>
+              <a href="contact.php" class="btn btn-get-started align-self-start">Get Started</a>
             </div>
                   
           </div><!-- Features Item -->
@@ -145,7 +145,7 @@
                   <li><i class="bi bi-check"></i> <span>MS Excel</span></li>
                   <li><i class="bi bi-check"></i> <span>Project Work / Exam</span></li>
                 </ul>
-                <a href="#" class="btn btn-get-started align-self-start">Get Started</a>
+                <a href="contact.php" class="btn btn-get-started align-self-start">Get Started</a>
               </div>
                     
             </div><!-- Features Item -->
@@ -153,7 +153,7 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
+    <!-- <section id="features" class="features">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -237,7 +237,8 @@
         </div>
 
       </div>
-    </section><!-- End Features Section -->
+    </section> -->
+    <!-- End Features Section -->
 
   </main><!-- End #main -->
 

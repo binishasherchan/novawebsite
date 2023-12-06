@@ -111,6 +111,12 @@ h6 {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+  #hero{
+    height: 50vh !important;
+  }
+  #fact-stats .section{
+    margin-bottom: 2rem;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -1099,6 +1105,7 @@ section {
 --------------------------------------------------------------*/
 .team .member {
   margin-bottom: 20px;
+  width: 100%;
   overflow: hidden;
   text-align: center;
   border-radius: 5px;
@@ -1109,8 +1116,8 @@ section {
 .team .member .member-img {
   position: relative;
   overflow: hidden;
-  height: 216px;
-  width: 216px;
+  height: 270px;
+  /* width: 216px; */
 }
 .team .member .member-img img{
   height: 100%;
