@@ -7,7 +7,7 @@
 
   <title>Nova Computer & Language Institute - Home</title>
   <meta content="Nova Computer & Language Institute" name="description">
-  <meta content="" name="keywords">
+  <meta content="Study in Japan" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.ico" rel="icon">
