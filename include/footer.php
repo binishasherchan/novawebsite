@@ -56,7 +56,7 @@
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="https://www.facebook.com/NovaJapaneseLanguageInstitute" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+        <!-- <a href="#" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a> -->
       </div>
     </div>
   </footer><!-- End Footer -->

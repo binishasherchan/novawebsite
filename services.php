@@ -239,7 +239,94 @@
       </div>
     </section> -->
     <!-- End Features Section -->
+      <!-- Services Section - Home Page -->
+      <section id="services" class="services">
 
+<!--  Section Title -->
+<div class="container section-title" data-aos="fade-up">
+  <h2>Our Services</h2>
+ 
+</div><!-- End Section Title -->
+
+<div class="container">
+
+  <div class="row gy-4">
+
+    <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="100">
+      <div class="service-item d-flex">
+        <div class="icon flex-shrink-0"><i class="bi bi-briefcase"></i></div>
+        <div>
+          <h4 class="title"><a href="services-details.html" class="stretched-link">Computer Courses</a></h4>
+          <p class="description">Explore the world of technology with our comprehensive computer courses at our institute.
+             From fundamental level our courses cater to all skill levels. 
+             Join us to unlock endless opportunities in the rapidly evolving field of computing.</p>
+        </div>
+      </div>
+    </div>
+    <!-- End Service Item -->
+
+    <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="200">
+      <div class="service-item d-flex">
+        <div class="icon flex-shrink-0"><i class="bi bi-card-checklist"></i></div>
+        <div>
+          <h4 class="title"><a href="services-details.html" class="stretched-link">English language course</a></h4>
+          <p class="description">Our expert instructors tailor engaging lessons that cover grammar, vocabulary, and practical communication skills. Join us to enhance your English proficiency and unlock new opportunities in both personal and professional spheres.</p>
+        </div>
+      </div>
+    </div><!-- End Service Item -->
+
+    <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="300">
+      <div class="service-item d-flex">
+        <div class="icon flex-shrink-0"><i class="bi bi-bar-chart"></i></div>
+        <div>
+          <h4 class="title"><a href="services-details.html" class="stretched-link">Korean Language course</a></h4>
+          <p class="description">
+              Explore the richness of Korean culture through our institute's dynamic Korean language course.
+              Immerse yourself in engaging lessons that seamlessly blend language acquisition with an in-depth understanding of Korea's vibrant traditions.</p>
+        </div>
+      </div>
+    </div><!-- End Service Item -->
+
+    <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="400">
+      <div class="service-item d-flex">
+        <div class="icon flex-shrink-0"><i class="bi bi-binoculars"></i></div>
+        <div>
+          <h4 class="title"><a href="services-details.html" class="stretched-link">Japanese Language course</a></h4>
+          <p class="description">Explore the rich linguistic tapestry of Japan through our Japanese language course.
+             Immerse yourself in expert-led sessions, mastering essential communication skills and cultural nuances.</p>
+        </div>
+      </div>
+    </div><!-- End Service Item -->
+
+    <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="400">
+      <div class="service-item d-flex">
+        <div class="icon flex-shrink-0"><i class="bi bi-binoculars"></i></div>
+        <div>
+          <h4 class="title"><a href="services-details.html" class="stretched-link">Chinese Language course</a></h4>
+          <p class="description">Explore the richness of Chinese culture and communication with our Chinese language course at our institute.
+             Immerse yourself in interactive lessons, expert guidance, and a supportive learning environment to master this influential language.</p>
+        </div>
+      </div>
+    </div><!-- End Service Item -->
+
+    <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="500">
+      <div class="service-item d-flex">
+        <div class="icon flex-shrink-0"><i class="bi bi-brightness-high"></i></div>
+        <div>
+          <h4 class="title"><a href="services-details.html" class="stretched-link">Counselling</a></h4>
+          <p class="description">Explore the world of opportunities with our institute's expert counseling for studying abroad.
+             Our dedicated advisors guide you through every step, ensuring a seamless and informed journey towards your international education goals.</p>
+        </div>
+      </div>
+    </div><!-- End Service Item -->
+
+   
+
+  </div>
+
+</div>
+
+</section><!-- End Services Section -->
   </main><!-- End #main -->
 
   <?php

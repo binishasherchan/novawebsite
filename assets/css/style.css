@@ -760,6 +760,7 @@ section {
   height: 100%;
   -o-object-fit: cover;
   object-fit: cover;
+  border-radius: 5px;
 }
 
 .features .features-item .image-stack {

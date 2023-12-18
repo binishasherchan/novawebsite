@@ -26,7 +26,7 @@
         <!-- <a href="#" class="twitter"><i class="bu bi-twitter"></i></a> -->
         <a href="https://www.facebook.com/NovaJapaneseLanguageInstitute"  target="_blank" class="facebook"><i class="bu bi-facebook"></i></a>
         <!-- <a href="#" class="instagram"><i class="bu bi-instagram"></i></a> -->
-        <a href=""> <i class="bu bi-instagram"></i></a>
+        <!-- <a href=""> <i class="bu bi-instagram"></i></a> -->
         <!-- <a href=""> <i class="bu bi-tiktok"></i></a> -->
        
       </div>
