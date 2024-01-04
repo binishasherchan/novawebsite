@@ -263,7 +263,7 @@
     
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio aos-init aos-animate" data-aos="fade-up">
+    <section id="portfolio" class="portfolio aos-init aos-animate gallery" data-aos="fade-up">
 
       <div class="container">
 
@@ -287,13 +287,12 @@
 
           <div class="row g-0 portfolio-container" style="position: relative; height: 1044.94px;">
 
-            <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app" style="position: absolute; left: 0px; top: 0px;">
-              <img src="assets/img/event-1/1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 1</h4>
-                <a href="assets/img/portfolio/app-1.jpg" title="App 1" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app gallery-item" style="position: absolute; left: 0px; top: 0px;">
+              <div class="gallery-item">
+                  <a href="assets/img/event-1/1.jpg" class="gallery-lightbox" data-gall="gallery-item">
+                    <img src="assets/img/event-1/1.jpg" alt="" class="img-fluid">
+                  </a>
+            </div>
             </div><!-- End Portfolio Item -->
 
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product" style="position: absolute; left: 347.656px; top: 0px;">
@@ -301,7 +300,6 @@
               <div class="portfolio-info">
                 <h4>Product 1</h4>
                 <a href="assets/img/portfolio/product-1.jpg" title="Product 1" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -398,10 +396,16 @@
           </div><!-- End Portfolio Container -->
 
         </div>
+        <div class="view-more text-center">
+              <a href="gallery.php" target="" class="btn btn-get-started">
+                  View more
+              </a>
+        </div>
 
       </div>
     </section>
     <!-- End Portfolio Section -->
+    
      <!-- ======= Our Team Section ======= -->
      <section id="team" class="team section-bg">
       <div class="container">
