@@ -15,7 +15,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Gallery</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li>Gallery</li>
           </ol>
         </div>
@@ -37,7 +37,42 @@
 <div class="container-fluid" data-aos="fade-up" data-aos-delay="100">
 
   <div class="row g-0">
-
+   
+    <div class="col-lg-3 col-md-4">
+      <div class="gallery-item">
+        <a href="assets/img/gallery/21.JPG" class="gallery-lightbox" data-gall="gallery-item">
+          <img src="assets/img/gallery/21.JPG" alt="" class="img-fluid">
+        </a>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4">
+      <div class="gallery-item">
+        <a href="assets/img/gallery/22.JPG" class="gallery-lightbox" data-gall="gallery-item">
+          <img src="assets/img/gallery/22.JPG" alt="" class="img-fluid">
+        </a>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4">
+      <div class="gallery-item">
+        <a href="assets/img/gallery/23.JPG" class="gallery-lightbox" data-gall="gallery-item">
+          <img src="assets/img/gallery/23.JPG" alt="" class="img-fluid">
+        </a>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4">
+      <div class="gallery-item">
+        <a href="assets/img/team/staff.jpg" class="gallery-lightbox" data-gall="gallery-item">
+          <img src="assets/img/team/staff.jpg" alt="" class="img-fluid">
+        </a>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4">
+      <div class="gallery-item">
+        <a href="assets/img/team/staff2.jpg" class="gallery-lightbox" data-gall="gallery-item">
+          <img src="assets/img/team/staff2.jpg" alt="" class="img-fluid">
+        </a>
+      </div>
+    </div>
     <div class="col-lg-3 col-md-4">
       <div class="gallery-item">
         <a href="assets/img/event-1/1.jpg" class="gallery-lightbox" data-gall="gallery-item">
@@ -86,28 +121,9 @@
       </div>
     </div>
 
-    <div class="col-lg-3 col-md-4">
-      <div class="gallery-item">
-        <a href="assets/img/event-1/7.jpg" class="gallery-lightbox" data-gall="gallery-item">
-          <img src="assets/img/event-1/7.jpg" alt="" class="img-fluid">
-        </a>
-      </div>
-    </div>
-
-    <div class="col-lg-3 col-md-4">
-      <div class="gallery-item">
-        <a href="assets/img/event-1/8.jpg" class="gallery-lightbox" data-gall="gallery-item">
-          <img src="assets/img/event-1/8.jpg" alt="" class="img-fluid">
-        </a>
-      </div>
-    </div>
-    <div class="col-lg-3 col-md-4">
-      <div class="gallery-item">
-        <a href="assets/img/event-1/9.jpg" class="gallery-lightbox" data-gall="gallery-item">
-          <img src="assets/img/event-1/9.jpg" alt="" class="img-fluid">
-        </a>
-      </div>
-    </div>
+  
+ 
+    
     <div class="col-lg-3 col-md-4">
       <div class="gallery-item">
         <a href="assets/img/gallery/1.jpg" class="gallery-lightbox" data-gall="gallery-item">
@@ -227,6 +243,9 @@
         </a>
       </div>
     </div>
+   
+   
+
 
   </div>
 
