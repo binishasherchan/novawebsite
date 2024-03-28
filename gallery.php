@@ -37,7 +37,27 @@
 <div class="container-fluid" data-aos="fade-up" data-aos-delay="100">
 
   <div class="row g-0">
-   
+    <div class="col-lg-3 col-md-4">
+      <div class="gallery-item">
+        <a href="assets/img/art-speaking/1.jpg" class="gallery-lightbox" data-gall="gallery-item">
+          <img src="assets/img/art-speaking/1.jpg" alt="" class="img-fluid">
+        </a>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4">
+      <div class="gallery-item">
+        <a href="assets/img/art-speaking/2.jpg" class="gallery-lightbox" data-gall="gallery-item">
+          <img src="assets/img/art-speaking/2.jpg" alt="" class="img-fluid">
+        </a>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-4">
+      <div class="gallery-item">
+        <a href="assets/img/art-speaking/3.jpg" class="gallery-lightbox" data-gall="gallery-item">
+          <img src="assets/img/art-speaking/3.jpg" alt="" class="img-fluid">
+        </a>
+      </div>
+    </div>
     <div class="col-lg-3 col-md-4">
       <div class="gallery-item">
         <a href="assets/img/gallery/21.JPG" class="gallery-lightbox" data-gall="gallery-item">

@@ -253,6 +253,17 @@
             </div>
           </div><!-- End Service Item -->
 
+          <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="500">
+            <div class="service-item d-flex">
+              <div class="icon flex-shrink-0"><i class="bi bi-brightness-high"></i></div>
+              <div>
+                <h4 class="title"><a href="services-details.html" class="stretched-link">Art of Speaking Class</a></h4>
+                <p class="description">Explore the world of opportunities with our institute's expert for speaking your mind .
+                   Our dedicated advisors guide you through every step, ensuring a seamless and informed journey towards your  goals.</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
          
 
         </div>
@@ -279,6 +290,7 @@
 
           <ul class="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-art">Art of Speaking Program</li>
             <li data-filter=".filter-app">Picnic</li>
             <li data-filter=".filter-product">Farewell Program</li>
             <!-- <li data-filter=".filter-branding">Branding</li>
@@ -286,7 +298,27 @@
           </ul><!-- End Portfolio Filters -->
 
           <div class="row g-0 portfolio-container" style="position: relative; height: 1044.94px;">
-
+            <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-art gallery-item" style="position: absolute; left: 0px; top: 0px;">
+                <div class="gallery-item">
+                    <a href="assets/img/art-speaking/1.jpg" class="gallery-lightbox" data-gall="gallery-item">
+                      <img src="assets/img/art-speaking/1.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+            </div><!-- End Portfolio Item -->
+            <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-art gallery-item" style="position: absolute; left: 0px; top: 0px;">
+                <div class="gallery-item">
+                    <a href="assets/img/art-speaking/2.jpg" class="gallery-lightbox" data-gall="gallery-item">
+                      <img src="assets/img/art-speaking/2.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+            </div><!-- End Portfolio Item -->
+            <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-art gallery-item" style="position: absolute; left: 0px; top: 0px;">
+                <div class="gallery-item">
+                    <a href="assets/img/art-speaking/3.jpg" class="gallery-lightbox" data-gall="gallery-item">
+                      <img src="assets/img/art-speaking/3.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+            </div><!-- End Portfolio Item -->
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app gallery-item" style="position: absolute; left: 0px; top: 0px;">
               <div class="gallery-item">
                   <a href="assets/img/event-1/1.jpg" class="gallery-lightbox" data-gall="gallery-item">
